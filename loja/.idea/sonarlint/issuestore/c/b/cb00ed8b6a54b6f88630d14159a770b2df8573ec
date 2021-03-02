@@ -1,0 +1,5 @@
+
+xsquid:S1450"URemove the "client" field and declare it as a local variable in the relevant methods.(‚Ø–øùÿÿÿÿ8Å‹§„ÿ.
+tsquid:S1192%"VDefine a constant instead of duplicating this literal "http://localhost:8080" 3 times.(¥Á•æ8ğ›Íƒÿ.
+bsquid:HiddenFieldCheck$":Rename "client" which hides the field declared at line 21.(…¸D8Å‹§„ÿ.
+bsquid:HiddenFieldCheck.":Rename "client" which hides the field declared at line 21.(…¸D8Å‹§„ÿ.
